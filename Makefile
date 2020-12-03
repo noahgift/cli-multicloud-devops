@@ -13,3 +13,4 @@ test:
 
 deploy:
 	echo "CD"
+all: install lint test
