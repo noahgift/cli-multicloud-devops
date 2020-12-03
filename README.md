@@ -1,3 +1,5 @@
+![Python package](https://github.com/noahgift/cli-multicloud-devops/workflows/Python%20package/badge.svg)
+
 # cli-multicloud-devops
 Test a command-line tool on multiple clouds using DevOps best practices
 
